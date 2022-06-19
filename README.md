@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This is a demo on how to use Quantum Support Vector Machines, as implemanted by Qiskit, to perform classification on the Iris dataset
+This is a demo on how to use Quantum Support Vector Machines, as implemented by using Qiskit, to perform classification on the Iris dataset. 
+<br><br>
+Based on ideas from https://github.com/Qiskit/qiskit-machine-learning/blob/main/docs/tutorials/03_quantum_kernel.ipynb.
 
 ## Software Environment
 
